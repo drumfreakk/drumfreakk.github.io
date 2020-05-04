@@ -8,7 +8,7 @@ Een van de methodes om data op te slaan is Crispr. Crispr is een methode van bac
 
 ![Image](https://media.wired.com/photos/59656350c3a5257128819207/master/w_1600%2Cc_limit/GifDNA-Horse-Inline.gif)
 Links: een series frames van Eadweard Muybridge’s Human and Animal Locomotion. Rechts: dezelfde frames, na een aantal generaties bacteriën.
-[Link](https://www.wired.com/story/scientists-upload-a-galloping-horse-gif-into-bacteria-with-crispr/)
+[Bron](https://www.wired.com/story/scientists-upload-a-galloping-horse-gif-into-bacteria-with-crispr/)
 
 ### Syntethische DNA
 
