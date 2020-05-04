@@ -13,3 +13,7 @@ Links: een series frames van Eadweard Muybridge’s Human and Animal Locomotion.
 ### Syntethische DNA
 
 Een andere methode, die waarschijnlijk beter is, is om synthetische DNA te maken met de data gecodeerd. Hierdoor kan de DNA los worden bewaard, waardoor er geen fouten kunnen optreden door voortplanting. Ook is dit efficiënter qua fysieke ruimte: je hebt namelijk geen bacterie nodig om de DNA op te slaan. Om zo informatie op te slaan kan je twee manieren gebruiken: Een manier, die redelijk makkelijk is om op te schalen en economisch haalbaar is, is om korte stukjes DNA te maken, met maximaal 30 ‘bits’ per stuk. Hiervan worden er dan heel veel gemaakt, met verschillende combinaties voor elk stuk. Deze stukjes worden dan in een matrix gezet, waar de stukjes DNA als ‘bits’ fungeren. Een andere methode, waar nog meer aan moet worden gewerkt om het rendabel te maken maar waarschijnlijk wel beter is, is om “gewoon” een lange streng DNA te maken, met de digitale informatie erin geëncodeerd. Om de data weer uit te lezen kan je het DNA sequencen, lezen wat erin staat. Hoewel er grote stappen zijn gezet om het sequencen goedkoper en beter te maken, zijn er nog weinig stappen gezet voor het maken, synthesizen, van het DNA. In 2019 is het een team onderzoekers echter gelukt om de synthese 20% sneller te laten gaan, en ze denken dat het zeker 75% sneller zou moeten kunnen met meer onderzoek. Ook hebben ze betere methodes ontwikkeld om fouten te vinden. 
+
+
+
+_[Terug](/README.md)_
