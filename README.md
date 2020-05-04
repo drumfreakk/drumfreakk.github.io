@@ -2,9 +2,9 @@
 
 Dit is mijn website voor de inschrijving voor het U-Talent traject.
 
-[Motivatie](kippenjongen.github.io/motivatie/README.md)
+[Motivatie](kippenjongen.github.io/motivatie/)
 
-[Bètaonderwerp](kippenjongen.github.io/onderwerp/README.md)
+[Bètaonderwerp](kippenjongen.github.io/onderwerp/)
 
 Kieran Houtgraaf, USG, 4A
 
