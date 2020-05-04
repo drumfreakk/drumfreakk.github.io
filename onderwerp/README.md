@@ -16,4 +16,4 @@ Een andere methode, die waarschijnlijk beter is, is om synthetische DNA te maken
 
 
 
-_[Terug](/README.md)_
+_[Terug](kippenjongen.github.io/)_
