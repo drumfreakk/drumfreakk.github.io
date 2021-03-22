@@ -2,11 +2,11 @@
 
 Dit is mijn website voor de inschrijving voor het U-Talent traject.
 
-[Motivatie](kippenjongen.github.io/motivatie/)
+[Motivatie](drumfreakk.github.io/motivatie/)
 
-[Bètaonderwerp](kippenjongen.github.io/onderwerp/)
+[Bètaonderwerp](drumfreakk.github.io/onderwerp/)
 
 Kieran Houtgraaf, USG, 4A
 
 
-_Deze website is gemaakt op github.com, waar ik ook andere [programmeerprojecten](https://github.com/kippenjongen) heb._
+_Deze website is gemaakt op github.com, waar ik ook andere [programmeerprojecten](https://github.com/drumfreakk) heb._
