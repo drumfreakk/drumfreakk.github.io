@@ -16,4 +16,4 @@ Een andere methode, die waarschijnlijk beter is, is om synthetische DNA te maken
 
 
 
-_[Terug](https://kippenjongen.github.io/)_
+_[Terug](https://drumfreakk.github.io/)_
